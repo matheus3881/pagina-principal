@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* ---Area Cabeçalho--- */
+
+
+#logo{
+    text-align: center;
+    color: white;
+    margin-bottom: 25px;
+    border: 1px solid red;
+    
+}
+
+
+.area-cabecalho{
+    background-color: #474056;
+    padding: 50px;
+    border: 1px solid red;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: auto;
+    background-color: #474056;
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+
+    
+}
+
+
+
+ul a {
+    /* display: block; */
+    padding: 0 2em;
+    line-height: 2em;
+    text-decoration: none;
+    color: white;
+    /* border: 1px solid grey; */
+}
+
+ul a:hover {
+    color: #474056;
+    background: white;
+    border: 1px solid white;
+    
+}
+
+
+#area-principal{
+    width: 100%;
+    /* margin: auto; */
+    padding: 15px;
+    text-align: center;
+
+}
+
+
+#area-postagem{
+    text-align: center;
+    /* width: 90%; */
+    /* align-items: center; */
+}
+
+
+.postagem{
+ margin-bottom:15px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .area-cabecalho{
+    text-align: center;
+ }
+
+ .area-menu{
+    
+    border: 1px solid red;
+ }
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul a{
+    width: 200px;
+    height: 40px;
+    display: block;
+    color: #000;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px;
+    background: url(/imagens/menu.png) no-repeat left bottom;
+    text-align: center;
+    
+}
+
+a:hover{
+    background-position: right bottom;
+    color: #fff;
+} */
