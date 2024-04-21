@@ -24,13 +24,18 @@
 }
 
 
+#menu-principal{
+    width: 1100px;
+}
+
+
 #menu-auxiliar{
     float: right;
     text-align: center;
     display: flex;
     position: relative;
     bottom: 39px;
-    /* padding: auto; */
+    /* padding: auto; */;
     
 }
 
