@@ -12,40 +12,82 @@
     text-align: center;
     color: white;
     margin-bottom: 25px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
 }
+
 
 
 .area-cabecalho{
     background-color: #474056;
     padding: 50px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 
-ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    width: auto;
-    background-color: #474056;
-    display: flex;
-    justify-content: center;
-    border: 1px solid red;
+#login{
+    width: 40px;
+    padding: 5px;
+    position: relative;
+    left: 1200px;
+    bottom: 30px;
+ 
+    
+}
 
+
+#cadastro{
+    width: 75px;
+    padding: 5px;
+    position: relative;
+    left: 1250px;
+    bottom: 59px;
+ 
     
 }
 
 
 
+ul {
+    margin-left: 345px;
+    list-style: none;
+    width: 650px;
+    background-color: #474056;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid red; */
+
+    
+}
+
+
+.area-menu{
+    text-align: center;
+}
+
+
+a{
+    display: block;
+    color: azure;
+    text-decoration: none;
+    
+}
+
+
+a:hover{
+    color: #000;
+    
+    
+}
+
+
 ul a {
-    /* display: block; */
+    display: block;
     padding: 0 2em;
     line-height: 2em;
     text-decoration: none;
     color: white;
-    /* border: 1px solid grey; */
+
 }
 
 ul a:hover {
@@ -54,6 +96,12 @@ ul a:hover {
     border: 1px solid white;
     
 }
+
+
+
+
+
+/* area principal */
 
 
 #area-principal{
@@ -69,11 +117,25 @@ ul a:hover {
     text-align: center;
     /* width: 90%; */
     /* align-items: center; */
+    padding: 30px;
 }
 
 
-.postagem{
- margin-bottom:15px ;
+.postagem1{
+    
+}
+
+
+.postagem-img{
+    width: 90%;
+    height: 90%;
+}
+
+
+
+/* rodape */
+#rodape{
+    text-align: center;
 }
 
 
